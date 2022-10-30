@@ -2,9 +2,12 @@
 Plover Mod-Z
 ==========================
 
-A slight modification of the standard English steno layout included in Plover which replaces the top `S-` with `Z-`.
+This plugin for plover provides the *Plover Mod-Z* system which is a minor modification of the standard English steno layout.
+The only change is that the top S- is replaced with Z-.
 
-The main reason for this remapping is to align with the layout of the German Regenpfeifer layout.
+The motivation was to bring the English layout closer to the German Regenpfeifer layout.
+
+Since Z- is not present in the usual English layout, there are no conflicts with existing English dictionaries.
 
 Installation
 ------------
