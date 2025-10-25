@@ -26,6 +26,22 @@ Mac
 
 	/Applications/Plover.app/Contents/MacOS/Plover -s plover_plugins install <path-to-git-repo>
 
+Packaging
+------------
+
+To package the plugin, run:
+
+.. code:: bash
+
+              python3 -m build
+
+And to upload to PyPi, run:
+
+.. code:: bash
+
+              twine upload dist/*
+
+See also the instructions on [python.org](https://packaging.python.org/en/latest/tutorials/packaging-projects/).
 
 Special Thanks
 --------------
