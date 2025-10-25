@@ -41,7 +41,7 @@ And to upload to PyPi, run:
 
               twine upload dist/*
 
-See also the instructions on [python.org](https://packaging.python.org/en/latest/tutorials/packaging-projects/).
+See also the instructions on `python.org <https://packaging.python.org/en/latest/tutorials/packaging-projects/>`__.
 
 Special Thanks
 --------------
